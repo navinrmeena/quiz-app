@@ -34,7 +34,6 @@
     "react-native-gesture-handler": "~2.20.2",
     "react-native-reanimated": "~3.16.1",
     "react-native-safe-area-context": "4.12.0",
-    "semantic-release": "^24.1.0",
     "@semantic-release/github": "^11.0.2",
     "react-native-screens": "~4.4.0",
     "react-native-svg": "15.8.0",
@@ -65,7 +64,7 @@
     "typescript": "^5.3.3"
   },
   "volta": {
-    "node": "20.10.0",
+    "node": "20.11.1",
     "yarn": "3.7.0"
   },
   "private": true,
