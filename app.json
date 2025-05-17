@@ -1,5 +1,6 @@
 {
   "expo": {
+    "platforms": ["ios", "android", "web"],
     "scheme": "tamagui-app",
     "userInterfaceStyle": "automatic",
     "splash": {
