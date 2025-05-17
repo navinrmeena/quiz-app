@@ -2,6 +2,16 @@
 
 This is a **cross-platform Quiz App** built using **React Native** with **Expo** and styled using **Tamagui**. The app works seamlessly on **iOS, Android, and Web**. Users can take quizzes, receive instant feedback, and view results at the end.
 
+### Open this link on your Android devices (or scan the QR code) to install the app:
+
+```
+https://expo.dev/accounts/simplify_money/projects/simplifymoney/builds/207606a2-8fcd-4d4f-af0f-2514b1c8c459
+```
+
+![QR Code ](./assets/QR_Code.png)
+
+```bash
+
 ## ✨ Features
 
 - ✅ Randomly selects 5 questions from a question bank.
@@ -23,6 +33,11 @@ This is a **cross-platform Quiz App** built using **React Native** with **Expo**
 - **TypeScript** - Ensures type safety and better code maintainability.
 
 ---
+
+
+git clone https://github.com/navinrmeena/quiz-app.git
+cd quiz-app
+```
 
 ## 🚀 Getting Started
 
