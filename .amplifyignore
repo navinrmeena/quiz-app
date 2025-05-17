@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+.expo-shared/
+test/
+tests/
+coverage/
+.env
+*.log
+yarn.lock
+package-lock.json
+README.md
+amplify/

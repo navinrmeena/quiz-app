@@ -19,6 +19,12 @@
       "auth": {
         "appquiz12": {},
         "appquiz1242f12a9c": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1qrvnff7azqye",
+          "type": "manual"
+        }
       }
     }
   }

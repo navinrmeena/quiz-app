@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "expo-router/entry",
   "scripts": {
+    "build": "EXPO_PUBLIC_APP_ENV=dev TAMAGUI_TARGET=web expo export --platform web --output-dir web-build",
+    "publish": "yarn build && amplify publish",
     "start": "expo start",
     "android": "expo run:android",
     "ios": "expo run:ios",
